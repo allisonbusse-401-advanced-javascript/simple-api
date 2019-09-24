@@ -1,0 +1,58 @@
+{
+  "categories": [
+    {
+      "_id": 1,
+      "name": "grain",
+      "display_name": "Grain",
+      "description": "tastes delicious, not great for you"
+    },
+    {
+      "_id": 2,
+      "name": "vegetable",
+      "display_name": "Vegetable",
+      "description": "colorful, lots of green, healthy"
+    },
+    {
+      "_id": 3,
+      "name": "meat",
+      "display_name": "Meat",
+      "description": "not for vegans"
+    },
+    {
+      "_id": 4,
+      "name": "fruit",
+      "display_name": "Fruit",
+      "description": "colorful, very healthy"
+    }
+  ],
+  "products": [
+    {
+      "_id": 1,
+      "category": "grain",
+      "name": "rice",
+      "display_name": "Rice",
+      "description": "my favorite food"
+    },
+    {
+      "_id": 2,
+      "category": "vegetable",
+      "name": "broccoli",
+      "display_name": "Broccoli",
+      "description": "looks like small trees"
+    },
+    {
+      "_id": 3,
+      "category": "meat",
+      "name": "chicken",
+      "display_name": "Chicken",
+      "description": "hard to cook"
+    },
+    {
+      "_id": 4,
+      "category": "grain",
+      "name": "oat",
+      "display_name": "Oat",
+      "description": "boring"
+    }
+  ]
+}
